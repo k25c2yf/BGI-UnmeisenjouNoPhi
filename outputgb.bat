@@ -1,5 +1,3 @@
-python -m pip install opencc-python-reimplemented
-python big5_to_gbk.py
 
 mkdir outputgbk
 
